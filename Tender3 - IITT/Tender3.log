@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.25)  27 APR 2015 17:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.28)  30 APR 2015 11:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Tender3.tex
 (./Tender3.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+Babel <3.9h> and hyphenation patterns for 4 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -163,23 +163,14 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
-
-! You can't use `macro parameter character #' in horizontal mode.
-l.18 		\item[] Java, C++, C#
-                            , Python (a bit), HTML, Javascript, PHP and Linux.
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-) [2 <./Images/Edwin.jpg>] (./Members/Jaco.tex
-<./Images/Jaco.jpg, id=19, 192.72pt x 251.43938pt>
+) [2 <./Images/Edwin.jpg>] (./Members/Jaco.tex <./Images/Jaco.jpg, id=19, 192.7
+2pt x 251.43938pt>
 File: ./Images/Jaco.jpg Graphic file (type jpg)
- <use ./Images/Jaco.jpg>
+
+<use ./Images/Jaco.jpg>
 Package pdftex.def Info: ./Images/Jaco.jpg used on input line 5.
 (pdftex.def)             Requested size: 96.35976pt x 125.71938pt.
-)
-[3 <./Images/Jaco.jpg>] (./Members/Jandre.tex
+) [3 <./Images/Jaco.jpg>] (./Members/Jandre.tex
 <./Images/Jandre.jpg, id=23, 192.72pt x 258.21469pt>
 File: ./Images/Jandre.jpg Graphic file (type jpg)
  <use ./Images/Jandre.jpg>
@@ -201,12 +192,12 @@ Package pdftex.def Info: ./Images/Ryno.jpg used on input line 5.
 )
 [6 <./Images/Ryno.jpg>] (./Project.tex) [7] (./Tender3.aux) ) 
 Here is how much of TeX's memory you used:
- 1554 strings out of 495028
- 22373 string characters out of 6181497
- 74966 words of memory out of 5000000
- 4745 multiletter control sequences out of 15000+600000
+ 1554 strings out of 494985
+ 22373 string characters out of 6180356
+ 75116 words of memory out of 5000000
+ 4752 multiletter control sequences out of 15000+600000
  8800 words of font info for 31 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 36 hyphenation exceptions out of 8191
  37i,5n,23p,328b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texm
@@ -214,7 +205,7 @@ f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb>
-Output written on Tender3.pdf (8 pages, 126160 bytes).
+Output written on Tender3.pdf (8 pages, 126714 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
