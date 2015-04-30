@@ -1,0 +1,42 @@
+\documentclass[a4paper,12pt,titlepage]{article}
+\usepackage{graphicx}
+
+\DeclareGraphicsExtensions{.jpg}
+\graphicspath{{./Images/}}
+
+\begin{document}
+	\input{./TitlePage}
+	
+	%-----------------TABLE OF CONTENT-----------------
+	\newpage
+	\tableofcontents
+	\newpage
+	
+	%---------------------THE TEAM---------------------
+	\section{The Team}
+	
+		\subsection{Edwin Fullard}
+		\input{./Members/Edwin}
+		\newpage
+		
+		\subsection{Jaco Bezuidenhoudt}
+		\input{./Members/Jaco}
+		\newpage
+		
+		\subsection{Jandre Coetzee}
+		\input{./Members/Jandre}
+		\newpage
+		
+		\subsection{Maret Stoffberg}
+		\input{./Members/Maret}
+		\newpage
+		
+		\subsection{Ryno Pierce}
+		\input{./Members/Ryno}
+		\newpage
+		
+	%---------------PROJECT EXECUTION------------------
+	\section{Project Execution}
+	\input{./Project}
+
+\end{document}
