@@ -1,3 +1,4 @@
+
 \begin{itemize}
 	\item Initial ideas around technical challenges
 	%(Possibly any initial ideas you have around solving some of the technical challenges)
@@ -15,13 +16,51 @@
 	\item Development Methodology
 	%(What development methodology you intend to follow)
 	\begin{itemize}
-		\item[] % Insert content here
+	\item []\includegraphics[scale=0.3]{./Images/Waterfall.png}
+		\item[] We will use a sequential design process, used in software development processes, in which progress is seen as flowing steadily downwards through the phases of: 
+		\begin{itemize}
+			\item conception 
+			\item initiation
+			\item analysis
+			\item design
+			\item construction
+			\item testing
+			\item production/implementation
+			\item maintenance
+		\end{itemize}		 % Insert content here
+		\item[] This is also known as the waterfall methodology.
 	\end{itemize}
 	
 	\item Potential Technologies
 	%(Potentially the technologies your team intends to use for the project (as far as these are not prescribed by the client))
 	\begin{itemize}
-		\item[] % Insert content here
+		\item[] The technologies we plan to use are:
+		\begin{itemize}
+			\item On the Cloud Server
+			\begin{itemize}
+				\item NodeJS
+				\item MongoDB for the database
+				\item AngularJS for the client MVC framework
+			\end{itemize}
+			\item On the Gateway
+			\begin{itemize}
+				\item NodeJS for local analytics and communication to nodes via Bluetooth 4.0
+				\item MongoDB for the local backup and caching database
+				\item WebSockets for communication to server
+			\end{itemize}
+			\item On the Node
+			\begin{itemize}
+				\item Arduino Platform
+				\item Bluetooth 4.0
+				\item NFC Reader/Writer over the SPI bus
+			\end{itemize}
+			\item On the Mobile Device
+			\begin{itemize}
+				\item Android
+				\item NFC
+				\item Java for native app
+			\end{itemize}
+		\end{itemize}
 	\end{itemize}
 	
 	\item Outcome of the Project
