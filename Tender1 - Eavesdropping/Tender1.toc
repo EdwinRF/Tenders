@@ -1,6 +1,6 @@
 \contentsline {section}{\numberline {1}The Team}{2}
 \contentsline {subsection}{\numberline {1.1}Edwin Fullard}{2}
-\contentsline {subsection}{\numberline {1.2}Jaco Bezuidenhoudt}{3}
+\contentsline {subsection}{\numberline {1.2}Jaco Bezuidenhout}{3}
 \contentsline {subsection}{\numberline {1.3}Jandre Coetzee}{5}
 \contentsline {subsection}{\numberline {1.4}Maret Stoffberg}{6}
 \contentsline {subsection}{\numberline {1.5}Ryno Pierce}{8}

@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.19)  4 MAY 2015 21:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.25)  4 MAY 2015 22:22
 entering extended mode
 **Tender1.tex
-("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Tender1.tex"
+
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Tender
+1.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -62,7 +64,8 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Tender1.aux")
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Tender
+1.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -75,8 +78,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
-
-(C:\Users\Jaco\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
 \scratchdimen=\dimen105
@@ -89,18 +91,20 @@ LaTeX Font Info:    ... okay on input line 7.
 \MPnumerator=\count92
 \makeMPintoPDFobject=\count93
 \everyMPtoPDFconversion=\toks16
-) ("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\TitlePage.tex"
-<./Images/Group.jpg, id=1, 261.97874pt x 193.72375pt>
+)
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\TitleP
+age.tex" <./Images/Group.jpg, id=1, 261.97874pt x 193.72375pt>
 File: ./Images/Group.jpg Graphic file (type jpg)
- <use ./Images/Group.jpg>
+
+<use ./Images/Group.jpg>
 Package pdftex.def Info: ./Images/Group.jpg used on input line 26.
 (pdftex.def)             Requested size: 261.9781pt x 193.72327pt.
+ [1
 
-[1
-
-{C:/Users/Jaco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Jac
-o/Desktop/Tenders/Tender1 - Eavesdropping/Images/Group.jpg>])
-("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Tender1.toc"
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Draak Koning/Doc
+uments/GitHub/Tenders/Tender1 - Eavesdropping/Images/Group.jpg>])
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Tender
+1.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -110,10 +114,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 )
 \tf@toc=\write3
  [1]
-("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Members\Edwin.tex"
-<./Images/Edwin.jpg, id=13, 192.72pt x 266.49562pt>
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Member
+s\Edwin.tex" <./Images/Edwin.jpg, id=13, 192.72pt x 266.49562pt>
 File: ./Images/Edwin.jpg Graphic file (type jpg)
- <use ./Images/Edwin.jpg>
+
+<use ./Images/Edwin.jpg>
 Package pdftex.def Info: ./Images/Edwin.jpg used on input line 5.
 (pdftex.def)             Requested size: 96.35976pt x 133.24748pt.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
@@ -123,25 +128,28 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
-) [2 <C:/Users/Jaco/Desktop/Tenders/Tender1 - Eavesdropping/Images/Edwin.jpg>]
-("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Members\Jaco.tex"
-<./Images/Jaco.jpg, id=18, 638.385pt x 963.6pt>
+) [2 <C:/Users/Draak Koning/Documents/GitHub/Tenders/Tender1 - Eavesdropping/Im
+ages/Edwin.jpg>]
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Member
+s\Jaco.tex" <./Images/Jaco.jpg, id=18, 638.385pt x 963.6pt>
 File: ./Images/Jaco.jpg Graphic file (type jpg)
- <use ./Images/Jaco.jpg>
+
+<use ./Images/Jaco.jpg>
 Package pdftex.def Info: ./Images/Jaco.jpg used on input line 5.
 (pdftex.def)             Requested size: 127.67473pt x 192.71658pt.
-
-[3 <C:/Users/Jaco/Desktop/Tenders/Tender1 - Eavesdropping/Images/Jaco.jpg>])
-[4] ("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Members\Jandre.tex"
-<./Images/Jandre.jpg, id=25, 192.72pt x 258.21469pt>
+ [3 <C:/Users/Draak Koning/Documents/GitHub/Tenders/Tender1 - Eavesdropping/Ima
+ges/Jaco.jpg>]) [4]
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Member
+s\Jandre.tex" <./Images/Jandre.jpg, id=25, 192.72pt x 258.21469pt>
 File: ./Images/Jandre.jpg Graphic file (type jpg)
- <use ./Images/Jandre.jpg>
+
+<use ./Images/Jandre.jpg>
 Package pdftex.def Info: ./Images/Jandre.jpg used on input line 5.
 (pdftex.def)             Requested size: 96.35976pt x 129.10703pt.
-) [5 <C:/Users/Jaco/Desktop/Tenders/Tender1 - Eavesdropping/Images/Jandre.jpg>]
-
-("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Members\Maret.tex"
-<./Images/Maret.jpg, id=29, 907.13907pt x 1251.17438pt>
+) [5 <C:/Users/Draak Koning/Documents/GitHub/Tenders/Tender1 - Eavesdropping/Im
+ages/Jandre.jpg>]
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Member
+s\Maret.tex" <./Images/Maret.jpg, id=29, 907.13907pt x 1251.17438pt>
 File: ./Images/Maret.jpg Graphic file (type jpg)
 
 <use ./Images/Maret.jpg>
@@ -156,15 +164,17 @@ Overfull \hbox (92.94312pt too wide) in paragraph at lines 5--6
 Overfull \vbox (57.13565pt too high) has occurred while \output is active []
 
 
-[6 <C:/Users/Jaco/Desktop/Tenders/Tender1 - Eavesdropping/Images/Maret.jpg>])
-[7] ("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Members\Ryno.tex"
-<./Images/Ryno.jpg, id=37, 192.72pt x 249.93375pt>
+[6 <C:/Users/Draak Koning/Documents/GitHub/Tenders/Tender1 - Eavesdropping/Imag
+es/Maret.jpg>]) [7]
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Member
+s\Ryno.tex" <./Images/Ryno.jpg, id=37, 192.72pt x 249.93375pt>
 File: ./Images/Ryno.jpg Graphic file (type jpg)
- <use ./Images/Ryno.jpg>
+
+<use ./Images/Ryno.jpg>
 Package pdftex.def Info: ./Images/Ryno.jpg used on input line 5.
 (pdftex.def)             Requested size: 96.35976pt x 124.96657pt.
-)
-[8 <C:/Users/Jaco/Desktop/Tenders/Tender1 - Eavesdropping/Images/Ryno.jpg>]
+) [8 <C:/Users/Draak Koning/Documents/GitHub/Tenders/Tender1 - Eavesdropping/Im
+ages/Ryno.jpg>]
 <./Images/Concept.png, id=41, 756.57657pt x 550.30594pt>
 File: ./Images/Concept.png Graphic file (type png)
 
@@ -172,32 +182,32 @@ File: ./Images/Concept.png Graphic file (type png)
 Package pdftex.def Info: ./Images/Concept.png used on input line 41.
 (pdftex.def)             Requested size: 378.28735pt x 275.1523pt.
 
-("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Project.tex" [9 <C:/Use
-rs/Jaco/Desktop/Tenders/Tender1 - Eavesdropping/Images/Concept.png>]
-<./Images/Waterfall.png, id=47, 803.0pt x 602.25pt>
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Projec
+t.tex" [9 <C:/Users/Draak Koning/Documents/GitHub/Tenders/Tender1 - Eavesdroppi
+ng/Images/Concept.png>] <./Images/Waterfall.png, id=47, 803.0pt x 602.25pt>
 File: ./Images/Waterfall.png Graphic file (type png)
 
 <use ./Images/Waterfall.png>
 Package pdftex.def Info: ./Images/Waterfall.png used on input line 19.
 (pdftex.def)             Requested size: 240.90186pt x 180.67639pt.
- [10 <C:/Users/Jaco/Desktop/Tenders/Tender1 - Eavesdropping/Images/Waterfall.pn
-g>]) [11]
-("C:\Users\Jaco\Desktop\Tenders\Tender1 - Eavesdropping\Tender1.aux") ) 
+ [10 <C:/Users/Draak Koning/Documents/GitHub/Tenders/Tender1 - Eavesdropping/Im
+ages/Waterfall.png>]) [11]
+("C:\Users\Draak Koning\Documents\GitHub\Tenders\Tender1 - Eavesdropping\Tender
+1.aux") ) 
 Here is how much of TeX's memory you used:
  1211 strings out of 493921
- 17479 string characters out of 3144879
+ 17866 string characters out of 3144855
  67897 words of memory out of 3000000
  4513 multiletter control sequences out of 15000+200000
  8800 words of font info for 31 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,5n,20p,643b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Tender1.pdf (12 pages, 765681 bytes).
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Tender1.pdf (12 pages, 765678 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
